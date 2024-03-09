@@ -147,3 +147,7 @@ As we conclude our investigation into event pooling in React, it's evident how i
 While event pooling may appear to be a small element in the larger picture of React's architecture, understanding it might help us develop more efficient and robust code. These minor elements are what make React such a strong and adaptable toolkit for creating interactive user interfaces.
 
 So, the next time you're handling events in your React application, remember the journey of the event object and the role event pooling plays.
+
+
+
+https://www.dhiwise.com/post/event-pooling-in-react-what-you-need-to-know
